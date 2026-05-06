@@ -7,7 +7,7 @@ venv/
 ENV/
 
 # Data (No subir el CSV si es muy pesado o privado, mejor dejar el enlace en el README)
-*.csv
+# *.csv
 *.xlsx
 
 # Jupyter Notebooks
